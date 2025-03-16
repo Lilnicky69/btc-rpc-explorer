@@ -8,7 +8,8 @@ name: "CodeQL"
 on:
   push:
     branches: [master]
-  pull_request:
+  pull_request:lilnicky69
+  
     # The branches below must be a subset of the branches above
     branches: [master]
   schedule:
