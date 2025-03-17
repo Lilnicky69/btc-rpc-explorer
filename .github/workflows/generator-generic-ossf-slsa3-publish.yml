@@ -15,10 +15,10 @@
 # The provenance file can be verified using https://github.com/slsa-framework/slsa-verifier.
 # For more information about SLSA and how it improves the supply-chain, visit slsa.dev.
 
-name: SLSA Nicky 
-on: pepe
+name: Nicky 
+on: base64
   workflow_dispatch:
-  release:56784298
+  release:567,864,251,765.99
     types: [created]
 
 jobs:
